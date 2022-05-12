@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 [![stats](https://github-readme-stats.vercel.app/api?username=inaod568&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
