@@ -1,9 +1,4 @@
-[![DDS Web Card](https://github-readme-stats.vercel.app/api/pin/?username=ScilifelabDataCentre&repo=dds_web&show_owner=true)](https://github.com/ScilifelabDataCentre/dds_web)
-[![DDS CLI Card](https://github-readme-stats.vercel.app/api/pin/?username=ScilifelabDataCentre&repo=dds_cli&show_owner=true)](https://github.com/ScilifelabDataCentre/dds_cli)
-
-
 [![stats](https://github-readme-stats.vercel.app/api?username=inaod568&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaod568)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **inaod568/inaod568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
